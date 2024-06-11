@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flight-booking-website/static/css/main.7531dc1a.css",
+    "main.js": "/flight-booking-website/static/js/main.b2837b41.js",
+    "static/media/video.mp4": "/flight-booking-website/static/media/video.b7ce2d181146b94707a1.mp4",
+    "static/media/images-Grid2.png": "/flight-booking-website/static/media/images-Grid2.97c5f84028ebdebcfd71.png",
+    "static/media/gridImages.png": "/flight-booking-website/static/media/gridImages.7489b2bcdca7f8536e44.png",
+    "static/media/italy.png": "/flight-booking-website/static/media/italy.a3fced5bde5aafb992e4.png",
+    "static/media/takeOff.png": "/flight-booking-website/static/media/takeOff.6e3550d67bbfa1b4c2c5.png",
+    "static/media/bluewings.png": "/flight-booking-website/static/media/bluewings.0a9c3ec182dfbf0981f4.png",
+    "static/media/user1italy.png": "/flight-booking-website/static/media/user1italy.51d19f682a763b10b2a8.png",
+    "index.html": "/flight-booking-website/index.html",
+    "main.7531dc1a.css.map": "/flight-booking-website/static/css/main.7531dc1a.css.map",
+    "main.b2837b41.js.map": "/flight-booking-website/static/js/main.b2837b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7531dc1a.css",
+    "static/js/main.b2837b41.js"
+  ]
+}
